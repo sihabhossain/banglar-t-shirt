@@ -1,0 +1,14 @@
+.t-shirt{
+    border: 1px solid rebeccapurple;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    gap: 20px;
+    
+}
+
+.t-shirt img{
+    height: 250px;
+    width: 200px;
+    border-radius: 15px;  
+}
